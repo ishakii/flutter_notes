@@ -2,6 +2,8 @@ flutter build apk --split-per-abi
 
 flutter build web --web-renderer canvaskit
 
+flutter pub upgrade --major-versions
+
 keytool -genkey -v -keystore c:\Users\hp\upload-keystore.jks -storetype JKS -keyalg RSA -keysize 2048 -validity 10000 -alias upload
 
 # Debug Sertifikası
