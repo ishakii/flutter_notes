@@ -1,8 +1,0 @@
->firebase init
-? What do you want to use as your public directory? build/web
-? Configure as a single-page app (rewrite all urls to /index.html)? Yes
-? Set up automatic builds and deploys with GitHub? No
-? File build/web/index.html already exists. Overwrite? No
->firebase deploy
-
-for more info https://medium.com/flutter/must-try-use-firebase-to-host-your-flutter-app-on-the-web-852ee533a469
